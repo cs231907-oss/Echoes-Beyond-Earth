@@ -33,4 +33,7 @@ Then visit `http://localhost:8000`.
 
 
 ## AI-assisted development disclosure
-AI assistance was used to help structure and integrate the additional mission entries and their JavaScript data. Mission descriptions and image selections should be checked against the linked NASA mission archives before final submission. NASA imagery remains credited to NASA and its stated mission partners; no NASA logos or official visual identity were generated.
+AI assistance was used to help structure and integrate the additional mission entries and their JavaScript data. NASA imagery remains credited to NASA and its stated mission partners; no NASA logos or official visual identity were generated.
+
+## Project Link:
+https://echoes-beyond-earth.infinityfree.io/
